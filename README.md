@@ -1,0 +1,2 @@
+# ptnetd
+Python Telnet Daemon
